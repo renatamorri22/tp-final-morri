@@ -1,0 +1,6 @@
+# Librerías de la clase 4. Instalación: pip install -r requirements.txt
+pandas==3.0.6
+requests==2.34.2
+geopandas==1.2.0
+mapclassify==2.11.0
+matplotlib==3.11.2

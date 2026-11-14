@@ -11,4 +11,4 @@ PROCESADO = Path("datos/procesado")
 # Años a analizar
 ANIOS = list(range(2019, 2026))
 if MODO_MUESTRA:
-    ANIOS = [2024]
+    ANIOS = [2023, 2024]  # un año de cada período, para que la comparación funcione
